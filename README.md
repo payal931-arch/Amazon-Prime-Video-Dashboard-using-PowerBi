@@ -12,8 +12,7 @@ The dataset, sourced from Kaggle, includes information on Amazon Prime Video's m
 
 - Power BI
 - 
-  https://raw.githubusercontent.com/payal931-arch/Amazon-Prime-Video-Dashboard-using-PowerBi/a38bbb62f162ab99ca32f1c4ea4e4f94f83fec6b/amazon%20dashboard.png
-
+  ![imgage aly](https://github.com/payal931-arch/Amazon-Prime-Video-Dashboard-using-PowerBi/blob/6e3c6407f0864c477089066ecd696849c0448df8/amazon%20dashboard.png)
 1. Download Power BI desktop application.
 2. Clone this repository.
 3. Open Amazon_Prime_Video_Dashboard.pbix with Power BI.
